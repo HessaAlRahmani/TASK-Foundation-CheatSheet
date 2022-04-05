@@ -17,7 +17,7 @@ to fork any repository, you just have to click on the right side button that has
 
 `git clone link`: is used to clone a repository given a specific link
 
-`git ______`: is used after every git command we do to get the status of the git repository
+`git status`: is used after every git command we do to get the status of the git repository
 
 `git add .`: is the first step to be able to commit and push a git repository. We should add all file in the working directory to **staging** status by using the `.` notation
 

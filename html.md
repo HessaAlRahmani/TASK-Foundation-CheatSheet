@@ -2,11 +2,11 @@
 
 HTML is a markup language. Everything you write in html should be wrapped in **Tags**. There are 2 main types of tags
 
-1. Self closing tag. `_TAG __`
-2. Non-self closing tag. `_TAG_ CONTENT __TAG_` And it contains 3 main parts
-   1. **Opening Tag** `_TAG_`
+1. Self closing tag. `<TAG />`
+2. Non-self closing tag. `<TAG> CONTENT </TAG>` And it contains 3 main parts
+   1. **Opening Tag** `<TAG>`
    2. **Inner HTML**: The content that will be rendered between the opening and closing tag.
-   3. **Closing Tag** `__Tag_`
+   3. **Closing Tag** `</TAG`
 
 ## Attributes
 
